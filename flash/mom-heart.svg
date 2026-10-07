@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" stroke="#111" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+  <g fill="none" stroke-width="3.5"><path d="M150 50 L150 66 M104 60 L112 74 M196 60 L188 74 M66 86 L80 94 M234 86 L220 94"/></g>
+  <path d="M150 262 C62 206 30 140 76 96 C108 66 140 82 150 110 C160 82 192 66 224 96 C270 140 238 206 150 262 Z" fill="#b4191d"/>
+  <path d="M90 110 C98 98 112 94 122 98" fill="none" stroke="#f4efe2" stroke-width="6"/>
+  <path d="M150 124 L150 242" fill="none" stroke="#7d0f12" stroke-width="3" opacity=".5"/>
+  <g>
+    <path d="M22 150 L58 144 L52 172 L58 200 L22 196 L34 174 Z" fill="#d9d2c0"/>
+    <path d="M278 150 L242 144 L248 172 L242 200 L278 196 L266 174 Z" fill="#d9d2c0"/>
+    <path d="M50 142 C100 130 200 130 250 142 L250 184 C200 172 100 172 50 184 Z" fill="#f4efe2"/>
+    <path d="M50 184 L58 200 M250 184 L242 200" fill="none"/>
+  </g>
+  <text x="150" y="172" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="40" letter-spacing="6" fill="#111" stroke="none">MOM</text>
+  <g fill="none" stroke-width="3">
+    <path d="M150 20 l0 22 M139 31 l22 0"/><path d="M40 244 l0 14 M33 251 l14 0"/><path d="M262 238 l0 14 M255 245 l14 0"/>
+  </g>
+</svg>

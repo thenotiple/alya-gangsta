@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" stroke="#111" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+  <defs>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2c14e"/><stop offset="1" stop-color="#d9531e"/></linearGradient>
+    <clipPath id="c"><circle cx="150" cy="140" r="92"/></clipPath>
+  </defs>
+  <circle cx="150" cy="140" r="92" fill="url(#sun)"/>
+  <g clip-path="url(#c)" fill="#111" stroke="none">
+    <rect x="40" y="150" width="220" height="7"/><rect x="40" y="170" width="220" height="9"/><rect x="40" y="192" width="220" height="11"/><rect x="40" y="216" width="220" height="14"/>
+  </g>
+  <circle cx="150" cy="140" r="92" fill="none"/>
+  <path d="M176 262 C170 210 170 160 150 104" fill="none" stroke-width="16"/>
+  <path d="M176 262 C170 210 170 160 150 104" fill="none" stroke="#8a5a2b" stroke-width="8"/>
+  <g fill="none" stroke-width="3"><path d="M164 150 l12 -4 M168 176 l12 -3 M170 202 l12 -2 M172 228 l12 -1 M158 126 l11 -5"/></g>
+  <g fill="#2f7d32">
+    <path d="M150 104 C120 84 86 88 60 112 C92 104 118 108 150 104 Z"/>
+    <path d="M150 104 C132 70 104 58 74 62 C104 76 126 86 150 104 Z"/>
+    <path d="M150 104 C156 70 182 52 214 54 C188 70 170 84 150 104 Z"/>
+    <path d="M150 104 C180 90 216 94 244 118 C212 110 184 108 150 104 Z"/>
+    <path d="M150 104 C176 104 204 124 214 154 C190 132 170 120 150 104 Z"/>
+    <path d="M150 104 C126 108 104 128 98 156 C118 134 134 120 150 104 Z"/>
+  </g>
+  <path d="M30 262 C80 252 220 252 270 262" fill="none"/>
+  <path d="M40 240 L260 240 L250 272 L50 272 Z" fill="#f4efe2"/>
+  <text x="150" y="264" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="26" fill="#111" stroke="none">Melsungen</text>
+</svg>
